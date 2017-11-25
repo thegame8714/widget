@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Style components Title should render the Title component 1`] = `
+.c0 {
+  color: #550000;
+}
+
+<h1
+  className="c0"
+/>
+`;

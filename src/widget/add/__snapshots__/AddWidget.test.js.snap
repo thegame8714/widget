@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Add Widget page should render the page 1`] = `
+<h1
+  className="sc-bdVaJa ghfIaL"
+>
+  Add a new Widget
+</h1>
+`;

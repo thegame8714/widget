@@ -2,6 +2,10 @@
 
 exports[`Widget Application should render the application 1`] = `
 <div>
-  Widget
+  <h1
+    className="sc-bdVaJa ghfIaL"
+  >
+    List of widgets
+  </h1>
 </div>
 `;

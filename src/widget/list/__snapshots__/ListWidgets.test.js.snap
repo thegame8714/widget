@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List of widgets page ListWidget component should render the component 1`] = `
+<h1
+  className="sc-bdVaJa ghfIaL"
+>
+  List of widgets
+</h1>
+`;

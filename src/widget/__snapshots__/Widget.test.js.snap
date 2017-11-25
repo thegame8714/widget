@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widget Application should render the application 1`] = `
+<div>
+  Widget
+</div>
+`;
